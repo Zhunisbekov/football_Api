@@ -1,4 +1,4 @@
-module github.com/Iliyas/football-api
+module github.com/Zhunisbekov/football-api
 
 go 1.22.3
 

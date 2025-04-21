@@ -3,7 +3,7 @@ package controllers
 import (
 	"net/http"
 
-	"github.com/Iliyas/football-api/data"
+	"github.com/Zhunisbekov/football-api/data"
 	"github.com/gin-gonic/gin"
 )
 

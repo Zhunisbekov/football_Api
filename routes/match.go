@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/Iliyas/football-api/controllers"
+	"github.com/Zhunisbekov/football-api/controllers"
 	"github.com/gin-gonic/gin"
 )
 

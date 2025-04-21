@@ -1,6 +1,6 @@
 package data
 
-import "github.com/Iliyas/football-api/models"
+import "github.com/Zhunisbekov/football-api/models"
 
 var Matches = []models.Match{
 	{ID: 1, Home: "Arsenal", Away: "Chelsea", Score: "2-1"},
